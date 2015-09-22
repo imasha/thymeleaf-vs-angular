@@ -1,4 +1,3 @@
-
 Angular Vs Thymeleaf
 ====================
 
